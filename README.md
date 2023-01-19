@@ -1,7 +1,28 @@
-<h3 align="center">A passionate Engineer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<style>
+    *{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    :root{
+        font-family: monospace;
+    }
+
+    body>h3{
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+
+<body>
+    <h3>A passionate Engineer from India</h3>
+
+    <div id="contact">
+        <h3>Connect With Me</h3>
+    </div>
+</body>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
