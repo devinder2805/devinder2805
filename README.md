@@ -1,4 +1,3 @@
-
 <h3 align="center">A passionate engineer from India</h3>
 
 <p align="left">
@@ -6,11 +5,13 @@
         alt="devinder2805" />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=devinder2805" alt="devinder2805" />
-    </a>
-</p>
+<center>
+    <p align="left">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=devinder2805" alt="devinder2805" />
+        </a>
+    </p>
+</center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
